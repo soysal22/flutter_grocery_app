@@ -36,7 +36,7 @@ class GroceryHome extends StatelessWidget {
         activeColor: GroceryConst.colorGreen,
       ),
       body: Padding(
-        padding: GroceryConst.edgeInsetsAll5,
+        padding: GroceryConst.paddingAll5,
         child: Container(
           color: GroceryConst.colorGreyTwo,
           child: Padding(

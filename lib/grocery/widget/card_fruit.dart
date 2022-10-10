@@ -51,7 +51,7 @@ class CardFruit extends StatelessWidget {
         TextLargeBold(text: fruitName, size: 17),
         GroceryConst.sizedBoxHeight10,
         TextSmallGrey(
-          text: GroceryConst.text_one_kg,
+          text: GroceryConst.text_kg,
         ),
         Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,

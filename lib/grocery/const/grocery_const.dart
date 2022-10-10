@@ -37,7 +37,7 @@ class GroceryConst {
   static const text_tomatoes = 'Tomatoes';
   static const text_potato = 'Potato';
   static const text_Broccoli = 'Green Broccoli';
-  static const text_one_kg = ' Kg';
+  static const text_kg = ' Kg';
   static const text_price = '\$12';
   static const text_price_line = '\$16.00';
 
@@ -55,7 +55,7 @@ class GroceryConst {
 
   // Padding
 
-  static const EdgeInsets edgeInsetsAll5 = EdgeInsets.all(5);
+  static const EdgeInsets paddingAll5 = EdgeInsets.all(5);
   static const paddingTwenty = EdgeInsets.all(20);
   static const EdgeInsets groceryDetailEdgeInsent = EdgeInsets.only(
     top: 60,

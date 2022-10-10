@@ -15,7 +15,7 @@ class GroceryInfo extends StatelessWidget {
         child: Container(
           color: GroceryConst.colorWhite,
           child: Padding(
-            padding: GroceryConst.edgeInsetsAll5,
+            padding: GroceryConst.paddingAll5,
             child: Container(
               width: MediaQuery.of(context).size.width,
               height: MediaQuery.of(context).size.height,
