@@ -87,9 +87,7 @@ class _GroceryDetailState extends State<GroceryDetail> {
           ),
         ),
         GroceryConst.sizedBoxWidth10,
-        TextSmallBold(text: _kg.toString()),
-        GroceryConst.sizedBoxWidth5,
-        TextSmallBold(text: GroceryConst.text_one_kg),
+        TextSmallBold(text: _kg.toString() + GroceryConst.text_one_kg),
         GroceryConst.sizedBoxWidth10,
         Container(
           decoration: BoxDecoration(
