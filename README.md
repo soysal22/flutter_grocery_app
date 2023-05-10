@@ -1,7 +1,8 @@
 MyTeacher => #Milhan https://github.com/Milhan
 
-Bu Tasarımı Örnek Alarak Flutter Üzerinden Tasarladım => ![https://www.uplabs.com/posts/grocery-mobile-app-design-815bcac1-35f5-430f-b391-afa699b555e6](https://www.uplabs.com/posts/hotel-booking-mobile-app-concept-9bfaa1cf-8711-4b8b-881d-499642c80c68)
+Bu Tasarımı Örnek Alarak Flutter Üzerinden Tasarladım => https://www.uplabs.com/posts/grocery-mobile-app-design-815bcac1-35f5-430f-b391-afa699b555e6
 
+![grocery](https://github.com/soysal22/flutter_grocery_app/assets/92873250/0734e7c9-9644-4707-b16e-c367470bd712)
 
 
 
@@ -30,12 +31,6 @@ samples, guidance on mobile development, and a full API reference.
 �
 
 
-
-
-
-
-
-
 <table>
   <tr>
     <td>
@@ -61,24 +56,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<table>
-  <tr>
-    <td>
-      <figure style="position: relative;">
-        <img src="https://github.com/soysal22/flutter_grocery_app/assets/92873250/2f55e090-6ded-440d-8f90-1037881f096e" width=300 height=600 object-fit: fill>
-        <figcaption style="position: absolute;  ">Detail Page</figcaption>
-      </figure>
-    </td>
-    <td>
-      <figure style="position: relative;">
-        <img src="https://github.com/soysal22/flutter_grocery_app/assets/92873250/2f55e090-6ded-440d-8f90-1037881f096e" width=300 height=600 object-fit: fill>
-        <figcaption style="position: absolute; top: 0; left: 0;">Info Page</figcaption>
-      </figure>
-    </td>
-  
-  </tr>
-</table>
-"
+ <img src="https://github.com/soysal22/flutter_grocery_app/assets/92873250/2f55e090-6ded-440d-8f90-1037881f096e" width=300 height=600 object-fit: fill>
+
+
+
+
 
 
 
